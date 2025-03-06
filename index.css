@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    font-size: 2rem;
+    margin-top: 100px;
+}
+
+header h1:first-of-type{
+font-weight: normal;
+}
+
+header p:first-of-type{
+    margin-top: 20px;
+}
